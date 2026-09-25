@@ -1,0 +1,369 @@
+Ensalada Cesar
+20
+Mezclar lechuga, crutones, queso parmesano y aderezo.
+3
+Garcia
+Maria
+Lechuga
+200
+s
+Crutones
+100
+s
+Queso parmesano
+50
+s
+Pollo
+150
+s
+Aceite de oliva
+30
+s
+Jugo de limon
+20
+s
+Ajo
+2
+s
+Mostaza
+10
+s
+Sal
+5
+s
+Pimienta
+3
+n
+s
+Sopa de tomate
+30
+Cocinar tomates, cebolla, ajo y caldo. Licuar y servir.
+2
+Lopez
+Carlos
+Tomates
+500
+s
+Cebolla
+100
+s
+Ajo
+3
+s
+Caldo de verduras
+1
+s
+Aceite
+20
+s
+Sal
+5
+s
+Pimienta
+2
+s
+Azucar
+10
+s
+Albahaca
+5
+s
+Crema
+50
+n
+s
+Pasta carbonara
+25
+Cocinar pasta, mezclar con huevo, queso y tocino.
+4
+Martinez
+Ana
+Pasta
+200
+s
+Huevo
+2
+s
+Queso parmesano
+100
+s
+Tocino
+150
+s
+Ajo
+2
+s
+Aceite
+20
+s
+Sal
+5
+s
+Pimienta
+3
+s
+Perejil
+10
+s
+Crema
+50
+n
+s
+Tacos de carne
+40
+Cocinar carne, preparar tortillas y agregar toppings.
+1
+Hernandez
+Jorge
+Carne
+300
+s
+Tortillas
+10
+s
+Cebolla
+50
+s
+Cilantro
+20
+s
+Limon
+2
+s
+Salsa
+100
+s
+Aguacate
+1
+s
+Sal
+5
+s
+Pimienta
+3
+s
+Aceite
+20
+n
+s
+Pizza margarita
+35
+Estirar masa, agregar salsa, queso y hornear.
+2
+Gomez
+Lucia
+Masa
+200
+s
+Salsa de tomate
+100
+s
+Queso mozzarella
+150
+s
+Albahaca
+10
+s
+Aceite de oliva
+20
+s
+Sal
+5
+s
+Pimienta
+3
+s
+Oregano
+5
+s
+Tomate
+2
+s
+Ajo
+2
+n
+s
+Arroz con pollo
+45
+Cocinar pollo, arroz y verduras juntos.
+3
+Rodriguez
+Pedro
+Pollo
+300
+s
+Arroz
+200
+s
+Cebolla
+50
+s
+Ajo
+3
+s
+Zanahoria
+100
+s
+Arvejas
+50
+s
+Caldo de pollo
+1
+s
+Aceite
+30
+s
+Sal
+5
+s
+Pimienta
+3
+n
+s
+Lasana de carne
+60
+Cocinar carne, preparar capas de pasta, queso y salsa.
+4
+Fernandez
+Laura
+Carne molida
+400
+s
+Pasta para lasana
+200
+s
+Salsa de tomate
+300
+s
+Queso ricotta
+200
+s
+Queso mozzarella
+150
+s
+Cebolla
+50
+s
+Ajo
+2
+s
+Aceite
+20
+s
+Sal
+5
+s
+Pimienta
+3
+n
+s
+Panqueques
+15
+Mezclar harina, huevo y leche. Cocinar en sarten.
+1
+Diaz
+Juan
+Harina
+200
+s
+Huevo
+2
+s
+Leche
+300
+s
+Mantequilla
+30
+s
+Azucar
+20
+s
+Sal
+2
+s
+Esencia de vainilla
+5
+s
+Aceite
+10
+s
+Canela
+3
+s
+Fruta
+100
+n
+s
+Brownies
+50
+Mezclar chocolate, mantequilla, huevo y harina. Hornear.
+2
+Perez
+Sofia
+Chocolate
+200
+s
+Mantequilla
+100
+s
+Huevo
+3
+s
+Harina
+150
+s
+Azucar
+200
+s
+Esencia de vainilla
+5
+s
+Sal
+2
+s
+Nueces
+50
+s
+Cacao en polvo
+20
+s
+Aceite
+10
+n
+s
+Helado de vainilla
+120
+Mezclar leche, crema, azucar y vainilla. Congelar.
+3
+Torres
+Miguel
+Leche
+500
+s
+Crema
+200
+s
+Azucar
+100
+s
+Esencia de vainilla
+10
+s
+Yema de huevo
+3
+s
+Sal
+2
+s
+Aceite
+10
+s
+Canela
+3
+s
+Vainilla en vaina
+1
+s
+Frutas
+50
+n
