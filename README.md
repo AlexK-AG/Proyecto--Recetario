@@ -46,9 +46,19 @@ Codigos/
 
 Requiere un compilador con soporte de C++11 o superior (g++, MinGW, etc.).
 
+**Manual:**
+
 ```bash
 g++ -std=c++11 -I hpp cpp/*.cpp -o recetario
 ```
+
+**Con Makefile:**
+
+```bash
+make
+```
+
+<!-- TODO: pegar aquí el contenido/target real del Makefile subido a GitHub (make, make clean, make run, etc.) -->
 
 ## Uso
 
@@ -57,6 +67,31 @@ g++ -std=c++11 -I hpp cpp/*.cpp -o recetario
 ```
 
 Al ejecutar el programa se muestra un menú interactivo en consola; se elige una opción escribiendo su número. El comando `system("cls")` se usa para limpiar la pantalla, por lo que el programa está pensado para ejecutarse en **Windows**; en Linux/macOS puede reemplazarse por `system("clear")` si se desea limpiar la pantalla correctamente.
+
+## Configuración de VS Code
+
+El proyecto incluye una carpeta `.vscode/` con la configuración de compilación y depuración (`tasks.json`, `launch.json`).
+
+### Extensiones recomendadas
+
+Instálalas desde el panel de Extensiones de VS Code, o crea/edita `.vscode/extensions.json` con:
+
+```jsonc
+{
+    "recommendations": [
+        "ms-vscode.cpptools",              // IntelliSense, depuración y navegación de código para C/C++
+        "jeff-hykin.better-cpp-syntax",    // Resaltado de sintaxis mejorado para C++
+        "ms-vscode.cpp-devtools",          // Herramientas adicionales de desarrollo C++
+        "ms-vscode.cpptools-themes",       // Temas a juego con C/C++ Tools
+        "amiralizadeh9480.cpp-helper",     // Generación rápida de getters/setters, includes, etc.
+        "twxs.cmake",                      // Resaltado de sintaxis para archivos CMake
+        "ms-vscode.cmake-tools",           // Integración de CMake (configurar, compilar, depurar)
+        "pkief.material-icon-theme",       // Iconos de archivos/carpetas
+        "ms-vscode.makefile-tools",        // Integración de Makefiles con VS Code
+        "fougas.msys2"                     // Soporte para el entorno/toolchain MSYS2 en Windows
+    ]
+}
+```
 
 ## Autor
 
